@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aakash Kumar</h1>
+<h1 align="center">Hi 👋, I'm Aakash</h1>
 <h3 align="center">A passionate MERN STACK Developer and PENTESTER from India</h3>
 
 <p align="left"> <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=devaakash26&repo=madushadhanushka&countColorcountColor&countColor=#ca8a04"/> </p>
