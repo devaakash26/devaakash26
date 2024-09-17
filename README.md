@@ -3,15 +3,16 @@
 
 <p align="left"> <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=devaakash26&repo=madushadhanushka&countColorcountColor&countColor=#ca8a04"/> </p>
 
-- 🌱 I’m currently learning **Three.js ,Next.js ,Hacking Tools**
+- 🌱 I’m currently learning **Three.js, Next.js, Hacking Tools**
 
 - 👨‍💻 All of my projects are available at [https://resume-aakash.netlify.app/](https://resume-aakash.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aakash-kumar26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakash-kumar26" height="30" width="40" /></a>
-<a href="https://instagram.com/aakash.prajapati26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aakash.prajapati26" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/devaakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devaakash" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aakash-kumar26" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60">
+</a>
+<a href="https://instagram.com/aakash.prajapati26" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="60"></a>
+<a href="https://www.leetcode.com/devaakash" target="blank"></a>
 </p>
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=devaakash26&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/> -->
 <h3 align="left">Languages and Tools:</h3>
