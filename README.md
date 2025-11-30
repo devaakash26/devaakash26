@@ -4,16 +4,13 @@
 <p align="left"> <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=devaakash26&repo=madushadhanushka&countColorcountColor&countColor=#ca8a04"/> </p>
 <ul>
   <li>
-    👨‍💻 Pursuing BTech in Computer Science Engineering, specializing in Data Science
+    👨‍💻 Pursuing BTech in Computer Science Engineering
   </li>
   <li>
     🏫 Uttar Pradesh, India
   </li>
   <li>
-     🌱 I’m currently learning **Three.js, Next.js, Hacking Tools**
-  </li>
-  <li>
-    👨‍💻 All of my projects are available at <a href="https://resume-aakash.netlify.app/" target="_blank"> PORTFOLIO WEBSITE</a>
+    👨‍💻 All of my projects are available at <a href="https://resume-aakash.vercel.app/" target="_blank"> PORTFOLIO WEBSITE</a>
   </li>
 </ul>
 <h3 align="left">Connect with me:</h3>
