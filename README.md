@@ -10,10 +10,10 @@
     🏫 Uttar Pradesh, India
   </li>
   <li>
-    👨‍💻 All of my projects are available at <a href="https://github.com/aakashdev26" target="_blank"> GITHUB</a>
+    👨‍💻 Second Working Github <a href="https://github.com/aakashdev26" target="_blank"> GITHUB</a>
   </li>
   <li>
-    👨‍💻 Second Working Githubat <a href="https://resume-aakash.vercel.app/" target="_blank"> PORTFOLIO WEBSITE</a>
+    👨‍💻  All of my projects are available at <a href="https://resume-aakash.vercel.app/" target="_blank"> PORTFOLIO WEBSITE</a>
   </li>
 </ul>
 <h3 align="left">Connect with me:</h3>
