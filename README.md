@@ -4,9 +4,6 @@
 <p align="left"> <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=devaakash26&repo=madushadhanushka&countColorcountColor&countColor=#ca8a04"/> </p>
 <ul>
   <li>
-    👨‍💻 Pursuing BTech in Computer Science Engineering
-  </li>
-  <li>
     🏫 Uttar Pradesh, India
   </li>
   <li>
